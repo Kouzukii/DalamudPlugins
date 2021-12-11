@@ -25,7 +25,7 @@
         "Author":  "Kouzukii",
         "Name":  "Price Insight",
         "InternalName":  "PriceInsight",
-        "AssemblyVersion":  "1.1.0.0",
+        "AssemblyVersion":  "1.2.0.0",
         "Description":  "See item marketboard prices on hover!",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/kouzukii/ffxiv-priceinsight",
@@ -34,7 +34,7 @@
                      "items",
                      "price"
                  ],
-        "DalamudApiLevel":  4,
+        "DalamudApiLevel":  5,
         "LoadPriority":  0,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
@@ -43,7 +43,7 @@
                              "inventory",
                              "utility"
                          ],
-        "LastUpdate":  "1633798563",
+        "LastUpdate":  "1639252441",
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
         "DownloadLinkTesting":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip"
