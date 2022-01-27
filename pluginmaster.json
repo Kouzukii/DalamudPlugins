@@ -9,7 +9,7 @@
         "RepoUrl":  "https://github.com/Kouzukii/ffxiv-deathrecap",
         "DalamudApiLevel":  5,
         "LoadPriority":  0,
-        "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-deathrecap/docs/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-deathrecap/master/docs/icon.png",
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "DownloadCount":  0,
