@@ -25,10 +25,10 @@
     },
     {
         "Author":  "Kouzukii",
-        "Name":  "Character Panel Refined",
+        "Name":  "(DO NOT INSTALL) CharacterDetails",
         "InternalName":  "CharacterDetails",
-        "AssemblyVersion":  "1.0.0.0",
-        "Description": "Refine the character panel to display useful information like crit and direct hit chance",
+        "AssemblyVersion":  "1.1.0.0",
+        "Description": "Deprecated Version of the Character Panel Refined plugin",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
         "DalamudApiLevel":  5,
@@ -46,6 +46,33 @@
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterDetails/latest.zip",
         "DownloadLinkTesting":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterDetails/latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterDetails/latest.zip"
+    },
+    {
+        "Author":  "Kouzukii",
+        "Name":  "Character Panel Refined",
+        "InternalName":  "CharacterPanelRefined",
+        "AssemblyVersion":  "1.0.0.0",
+        "Description": "Refine the character panel to display useful information like crit and direct hit chance",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
+        "DalamudApiLevel":  5,
+        "LoadPriority":  0,
+        "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image1.png",
+            "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
+        ],
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "DownloadCount":  0,
+        "CategoryTags":  [
+                             "utility",
+                             "ui"
+                         ],
+        "LastUpdate":  "1642988871",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip"
     },
     {
         "Author":  "Kouzukii",
