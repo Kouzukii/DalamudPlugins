@@ -3,7 +3,7 @@
         "Author":  "Kouzukii",
         "Name":  "Death Recap",
         "InternalName":  "DeathRecap",
-        "AssemblyVersion":  "1.5.2.1",
+        "AssemblyVersion":  "1.6.1.0",
         "Description": "Quickly figure out what killed you or your party members!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/Kouzukii/ffxiv-deathrecap",
@@ -14,10 +14,14 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "DownloadCount":  0,
-        "CategoryTags":  [
-                             "utility",
-                             "other"
-                         ],
+        "Tags": [
+            "death",
+            "recap",
+            "log"
+          ],
+          "CategoryTags": [
+            "utility"
+          ],
         "LastUpdate":  "1642988871",
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/DeathRecap/latest.zip",
         "DownloadLinkTesting":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/DeathRecap/latest.zip",
