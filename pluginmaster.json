@@ -1,85 +1,91 @@
 [
     {
-        "Author":  "Kouzukii",
-        "Name":  "Death Recap",
-        "InternalName":  "DeathRecap",
+        "Author": "Kouzukii",
+        "Name": "Death Recap",
+        "InternalName": "DeathRecap",
         "AssemblyVersion": "1.8.0.0",
         "Description": "Quickly figure out what killed you or your party members!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
         "Punchline": "Quickly figure out what killed you or your party members!",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/Kouzukii/ffxiv-deathrecap",
-        "DalamudApiLevel":  6,
-        "LoadPriority":  0,
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-deathrecap/master/images/icon.png",
-        "ImageUrls": ["https://raw.githubusercontent.com/Kouzukii/ffxiv-deathrecap/master/images/image1.png"],
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "DownloadCount":  0,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Kouzukii/ffxiv-deathrecap/master/images/image1.png"
+        ],
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
         "Tags": [
             "death",
             "recap",
             "log"
-          ],
-          "CategoryTags": [
+        ],
+        "CategoryTags": [
             "utility"
-          ],
-        "LastUpdate":  "1642988871",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/DeathRecap/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/DeathRecap/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/DeathRecap/latest.zip"
+        ],
+        "LastUpdate": "1642988871",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/DeathRecap/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/DeathRecap/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/DeathRecap/latest.zip"
     },
     {
-        "Author":  "Kouzukii",
-        "Name":  "Character Panel Refined",
-        "InternalName":  "CharacterPanelRefined",
-        "AssemblyVersion":  "1.1.1.0",
+        "Author": "Kouzukii",
+        "Name": "Character Panel Refined",
+        "InternalName": "CharacterPanelRefined",
+        "AssemblyVersion": "1.1.1.0",
         "Description": "Refine the character panel to display useful information like crit and direct hit chance",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
-        "DalamudApiLevel":  6,
-        "LoadPriority":  0,
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image1.png",
             "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
         ],
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "DownloadCount":  0,
-        "CategoryTags":  [
-                             "utility",
-                             "ui"
-                         ],
-        "LastUpdate":  "1642988871",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip"
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "CategoryTags": [
+            "utility",
+            "ui"
+        ],
+        "LastUpdate": "1642988871",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/CharacterPanelRefined/latest.zip"
     },
     {
-        "Author":  "Kouzukii",
-        "Name":  "Price Insight",
-        "InternalName":  "PriceInsight",
-        "AssemblyVersion":  "1.2.1.0",
-        "Description":  "See item marketboard prices on hover!",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/kouzukii/ffxiv-priceinsight",
-        "Tags":  [
-                     "marketboard",
-                     "items",
-                     "price"
-                 ],
-        "DalamudApiLevel":  6,
-        "LoadPriority":  0,
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "DownloadCount":  0,
-        "CategoryTags":  [
-                             "inventory",
-                             "utility"
-                         ],
-        "LastUpdate":  "1639252441",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip"
+        "Author": "Kouzukii",
+        "Name": "Price Insight",
+        "InternalName": "PriceInsight",
+        "AssemblyVersion": "2.0.0.0",
+        "Description": "See item marketboard prices on hover!",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
+        "Tags": [
+            "marketboard",
+            "items",
+            "price"
+        ],
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "CategoryTags": [
+            "ui",
+            "utility"
+        ],
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png",
+        "LastUpdate": "1639252441",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip"
     }
 ]

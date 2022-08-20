@@ -2,7 +2,7 @@
   "Author": "Kouzukii",
   "Name": "Price Insight",
   "InternalName": "PriceInsight",
-  "AssemblyVersion": "1.2.1.0",
+  "AssemblyVersion": "2.0.0.0",
   "Description": "See item marketboard prices on hover!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
@@ -11,6 +11,14 @@
     "items",
     "price"
   ],
+  "CategoryTags": [
+    "ui",
+    "utility"
+  ],
   "DalamudApiLevel": 6,
-  "LoadPriority": 0
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png"
 }
